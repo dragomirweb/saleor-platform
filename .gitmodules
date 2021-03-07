@@ -1,0 +1,9 @@
+[submodule "saleor"]
+	path = saleor
+	url = https://github.com/dragomirweb/saleor.git
+[submodule "saleor-storefront"]
+	path = saleor-storefront
+	url = https://github.com/dragomirweb/saleor-storefront.git
+[submodule "saleor-dashboard"]
+	path = saleor-dashboard
+	url = https://github.com/dragomirweb/saleor-dashboard.git
